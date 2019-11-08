@@ -1,0 +1,5 @@
+provider: generic
+url: 'https://public-cdn.cloud.unity3d.com/hub/prod'
+publisherName:
+  - Unity Technologies Aps
+  - Unity Technologies SF
