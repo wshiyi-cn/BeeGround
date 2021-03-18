@@ -1,2 +1,0 @@
-Run	Time	Name	X pos	Y pos
-
