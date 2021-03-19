@@ -26,3 +26,9 @@ Robots settings
 The default settings of robots (here using MONA[1] as an example) including size, forward speed, turn speed, sensor range, and wait time are initialized here.
 Simulation setting
 Simulation duration and number of iterations are defined in this step.
+
+# Installation
+## Step 1. Download a Beeground version from the folder 01 Version
+Download a Geeground version from the folder 01 Version, here I will use "BeeGround Ver. 1.0" as an example. Unzip the zip file in your local.
+## Step 2. Download the latest Unity from the Unity official website
+[Unity](https://unity.com/ "Unity")
