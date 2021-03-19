@@ -1,23 +1,14 @@
-BEEGROUND
+BEEGROUND-README
 ===========================
-An Unity based simulation platform for aggregation of swarm robots controlled by the bio-inspired algorithm BEECLUST
-README
+BEEGROUND is an open-source simulation tool for aggregation of swarm robots controlled by the bio-inspired algorithm BEECLUST
 
-该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
-
-****
-	
-|作者|果冻虾仁|
-|---|---
-|知乎|[![zhihu-shield]][zhihu]
-|公众号|编程往事
-
+Author: Shiyi Wang
 
 ****
-## 目录
-* [横线](#横线)
-* [标题](#标题)
-* [文本](#文本)
+# Contents
+* [Overview](#Overview)
+* [Installation](#Installation)
+* [](#文本)
     * 普通文本
     * 单行文本
     * 多行文本
@@ -45,13 +36,9 @@ README
 * [表情](#表情)
 * [diff语法](#diff语法)
 
-### 横线
+# Overview
 -----------
-***、---、___可以显示横线效果
-
-***
----
-___
+Bee-Ground is an open-source simulation tool based on Unity and Unity Machine Learning Agents which can be applied to the research on aggregation of swarm robots, especially the swarm robots controlled by the bio-inspired algorithm BEECLUST. MONA[1] is the modelled robot in this simulation software, however different robotic platform can be easily developed in Bee-Ground.
 
 
 
