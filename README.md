@@ -8,7 +8,7 @@ Author: Shiyi Wang
 # Contents
 * [Overview](#Overview)
 * [Installation](#Installation)
-* [First Simulation](#First Simulation)
+* [First Simulation](#First)
 * [Setting](#Setting)
 
 
