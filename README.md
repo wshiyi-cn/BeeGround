@@ -55,12 +55,12 @@ On the left side is the "Hierachy" which shows the components for in the environ
 You can click the arrow to open the tree list.
 
 Here are  
-Master: Virtual component for saving simulation parameters  
-Main Camera: Set the view when runing the simulation  
-Directional Light: Environment light source (just for apparance)  
-Timer: A text field which shows the simulation time and other information when runing  
-Arena: The area where agents can run  
-BeeXXX: Agents  
+* Master: Virtual component for saving simulation parameters  
+* Main Camera: Set the view when runing the simulation  
+* Directional Light: Environment light source (just for apparance)  
+* Timer: A text field which shows the simulation time and other information when runing  
+* Arena: The area where agents can run  
+* BeeXXX: Agents  
 
 ## Step 5. First run.
 Click "Play" Button to run the example
