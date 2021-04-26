@@ -8,6 +8,7 @@ Author: Shiyi Wang
 # Contents
 * [Overview](#Overview)
 * [Installation](#Installation)
+* [The first simulation](#First Simulation)
 * [Setting](#Setting)
 
 
@@ -42,7 +43,10 @@ Find "Bee-Ground 1.0" folder on your desk and double click the folder to import.
 ![import dir](https://i.imgur.com/7RxZFVl.png)  
 Once you import finshed. You should see "BeeGround 1.0" in your Unity Hub.
 
-## Step 4. First View
+
+#First Simulation
+
+## First View
 Now click "Bee Ground 1.0" to open it with Unity.
 ![First View](https://i.imgur.com/FSKrgR7.png)
 ### Scene
@@ -62,12 +66,12 @@ Here are
 * Arena: The area where agents can run  
 * BeeXXX: Agents  
 
-## Step 5. First run.
+## First run
 Click "Play" button(top middle) to run the simulation.
 ![First run](https://i.imgur.com/1ycANAZ.png)
 You should see that ten robots starting moving. They are moving according to the Beeclust algorithm. The background colour of the arena shows the temperature distribution. Blue means 0 degree(minium) and red means 255 degree(maxium). The timer shows on the left side of the arena. and you can press keys to change the simulation speed. Meanwhile, you can press UP to switch the background colour on or off.
 
-## Step 6. Logs
+## Logs
 ![Logs](https://i.imgur.com/KQOgyee.png)
 There are four log files which record many informations where are saved in Asset/03 Results(Default dir). There
 ### dd-mm-yy_hhmmss_Parameters.txt
@@ -89,7 +93,7 @@ Record per second for each agents in the arena.
 Collsion counts for each agents once they have collision.
 
 
-## Step 5. Click "Tools"-"BeeGround Setting to change the parameter"
+## Click "Tools"-"BeeGround Setting to change the parameter"
 
 # Setting
 ### Arena settings  
