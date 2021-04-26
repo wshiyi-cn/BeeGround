@@ -39,8 +39,7 @@ Then click "Next" and choose Microsoft Visual Studio Community 2019 (For editing
 Click "Projects" on the left side and then click "ADD" button to import BeeGround as a project.
 Find "Bee-Ground 1.0" folder on your desk and double click the folder to import.
 
-![import dir](https://i.imgur.com/T0zVnSJ.png)
-![import dir](https://i.imgur.com/AdpjdNx.png)
+![import dir](https://i.imgur.com/7RxZFVl.png)
 Once you import finshed. You should see "BeeGround 1.0" in your Unity Hub.
 
 ## Step 4. Click "Play" Button to run the example
