@@ -42,7 +42,21 @@ Find "Bee-Ground 1.0" folder on your desk and double click the folder to import.
 ![import dir](https://i.imgur.com/7RxZFVl.png)  
 Once you import finshed. You should see "BeeGround 1.0" in your Unity Hub.
 
-## Step 4. Click "Play" Button to run the example
+## Step 4. First View
+Now click "Bee Ground 1.0" to open it with Unity.
+![First View](https://i.imgur.com/15NH3k0.png)
+You should see an arena with a size of 20x40 and 10 robots randomly distributed on the left bottom corner.
+On the left side is the "Hierachy" which shows the components for in the environment.
+Here are 
+
+### Master: Virtual component for saving simulation parameters
+### Main Camera: Set the view when runing the simulation
+### Directional Light: Environment light source (just for apparance)
+### Timer: A text field which shows the simulation time and other information when runing
+### Arena: The area where agents can run
+### BeeXXX: Agents
+
+Click "Play" Button to run the example
 ## Step 5. Click "Tools"-"BeeGround Setting to change the parameter"
 
 # Setting
