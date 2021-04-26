@@ -26,10 +26,22 @@ Bee-Ground is an open-source simulation tool based on Unity and Unity Machine Le
 # Installation
 ## Step 1. Download a Beeground version from the folder 01 Version
 Download a Geeground version from the folder 01 Version, here I will use "BeeGround Ver. 1.0" as an example. Unzip the zip file in your local.
+
 ## Step 2. Download the latest Unity from the Unity official website
 Click this link to the Unity officical webist [www.unity.com](https://unity.com/ "Unity"). For Student and personal using the 100k. it is free to use.
+### Unity Hub
+You need to download Unity Hub for first. 
+### Install Unity "2019.4.25f1(LTS)"
+Then click "Installs" on the left side and click "ADD" button and choose "Unity 2019.4.25f1(LTS)"
+Then click "Next" and choose Microsoft Visual Studio Community 2019 (For editing code).
+
 ## Step 3. Import Beegground in Unity Start
-Click import in the Unity launcher "Unity hub" to import the Beeground local dir. The version could be the lastest one. Here is using Version "2019.4.17f1"
+Click "Projects" on the left side and then click "ADD" button to import BeeGround as a project.
+Find "Bee-Ground 1.0" folder on your desk and double click the folder to import.
+https://i.imgur.com/LTczUO1.png
+
+
+Click import in the Unity launcher "Unity hub" to import the Beeground local dir. The version could be the lastest one. Here is using Version "2019.4.25f1"
 ## Step 4. Click "Play" Button to run the example
 ## Step 5. Click "Tools"-"BeeGround Setting to change the parameter"
 
