@@ -51,7 +51,7 @@ You should see a part of an arena and 10 robots randomly distributed on the corn
 You will find a Scene Gizmo on the top right corner of the main view. Click "Y" to change to top view. Then you can hold your mouse wheel to move or zoom in/out. If you don't have the mouse wheel you can use "Hand Tool"(the icon under File menu on the top left corner.) If your Unity UI appears different as the screenshot. You can click Window-Layouts-Default to reset the layout.
 
 ### Hierachy
-On the left side is the "Hierachy" which shows the components for in the environment.
+On the left side is the "Hierachy" which shows the components in the environment.
 You can click the arrow to open the tree list.
 
 Here are  
@@ -63,7 +63,10 @@ Here are
 * BeeXXX: Agents  
 
 ## Step 5. First run.
-Click "Play" Button to run the example
+Click "Play" button(top middle) to run the simulation.
+![First run](https://i.imgur.com/1ycANAZ.png)
+You should see that ten robots starting moving. They are moving according to the Beeclust algorithm. The background colour of the arena shows the temperature distribution. Blue means 0 degree(minium) and red means 255 degree(maxium). The timer shows on the left side of the arena. and you can press keys to change the simulation speed. Meanwhile, you can press UP to switch the background colour on or off.
+
 ## Step 5. Click "Tools"-"BeeGround Setting to change the parameter"
 
 # Setting
