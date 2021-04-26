@@ -44,10 +44,15 @@ Once you import finshed. You should see "BeeGround 1.0" in your Unity Hub.
 
 ## Step 4. First View
 Now click "Bee Ground 1.0" to open it with Unity.
-![First View](https://i.imgur.com/15NH3k0.png)
-You should see an arena with a size of 20x40 and 10 robots randomly distributed on the left bottom corner.
+![First View](https://i.imgur.com/WavbWx4.png)
+You should see a part of an arena and 10 robots randomly distributed on the corner in the main view (center of the screen).
+
+You will find a Scene Gizmo on the top right corner of the main view. Click "Y" to change to top view. Then you can hold your mouse wheel to move or zoom in/out. If you don't have the mouse wheel you can use "Hand Tool"(the icon under File menu on the top left corner.)
+
 On the left side is the "Hierachy" which shows the components for in the environment.
-Here are 
+You can click the arrow to open the tree list.
+
+Here are  
 
 ### Master: Virtual component for saving simulation parameters
 ### Main Camera: Set the view when runing the simulation
@@ -56,6 +61,9 @@ Here are
 ### Arena: The area where agents can run
 ### BeeXXX: Agents
 
+If your Unity UI appears different as the screenshot. You can click Window-Layouts-Default to reset the layout.
+
+## Step 5. First run.
 Click "Play" Button to run the example
 ## Step 5. Click "Tools"-"BeeGround Setting to change the parameter"
 
