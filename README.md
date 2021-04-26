@@ -44,7 +44,7 @@ Once you import finshed. You should see "BeeGround 1.0" in your Unity Hub.
 
 ## Step 4. First View
 Now click "Bee Ground 1.0" to open it with Unity.
-![First View](https://i.imgur.com/WavbWx4.png)
+![First View](https://i.imgur.com/FSKrgR7.png)
 You should see a part of an arena and 10 robots randomly distributed on the corner in the main view (center of the screen).
 
 You will find a Scene Gizmo on the top right corner of the main view. Click "Y" to change to top view. Then you can hold your mouse wheel to move or zoom in/out. If you don't have the mouse wheel you can use "Hand Tool"(the icon under File menu on the top left corner.)
