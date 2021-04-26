@@ -68,12 +68,12 @@ Click "Play" button(top middle) to run the simulation.
 You should see that ten robots starting moving. They are moving according to the Beeclust algorithm. The background colour of the arena shows the temperature distribution. Blue means 0 degree(minium) and red means 255 degree(maxium). The timer shows on the left side of the arena. and you can press keys to change the simulation speed. Meanwhile, you can press UP to switch the background colour on or off.
 
 ## Step 6. Logs
-
+![Logs](https://i.imgur.com/KQOgyee.png)
 There are four log files which record many informations where are saved in Asset/03 Results(Default dir). There
 ### dd-mm-yy_hhmmss_Parameters.txt
 Record one time at the start. This file includes all the parameters of the simulation: 
 * Date and Time
-* * Simulation:Time/Repeat count
+* Simulation:Time/Repeat count
 * Arena:Length/Width
 * Agents:Counts/Length/Width/Speed/Turning Speed/Sensor Range
 * Initialization Postion: Range of horizonal position and vertical position
