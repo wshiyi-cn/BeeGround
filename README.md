@@ -67,6 +67,28 @@ Click "Play" button(top middle) to run the simulation.
 ![First run](https://i.imgur.com/1ycANAZ.png)
 You should see that ten robots starting moving. They are moving according to the Beeclust algorithm. The background colour of the arena shows the temperature distribution. Blue means 0 degree(minium) and red means 255 degree(maxium). The timer shows on the left side of the arena. and you can press keys to change the simulation speed. Meanwhile, you can press UP to switch the background colour on or off.
 
+## Step 6. Logs
+
+There are four log files which record many informations where are saved in Asset/03 Results(Default dir). There
+### dd-mm-yy_hhmmss_Parameters.txt
+Record one time at the start. This file includes all the parameters of the simulation: 
+* Date and Time
+* * Simulation:Time/Repeat count
+* Arena:Length/Width
+* Agents:Counts/Length/Width/Speed/Turning Speed/Sensor Range
+* Initialization Postion: Range of horizonal position and vertical position
+
+### dd-mm-yy_hhmmss_State.txt
+Once an agent starts or finishes aggregation, it adds a record in this file includes
+Postion/Current state(1 means stop or aggregated/ 0 means start to move)/Waiting time(Deleay)/the collision is on the cue or not
+
+### dd-mm-yy_hhmmss_Position.txt
+Record per second for each agents in the arena.
+
+### dd-mm-yy_hhmmss_Collision.txt
+Collsion counts for each agents once they have collision.
+
+
 ## Step 5. Click "Tools"-"BeeGround Setting to change the parameter"
 
 # Setting
