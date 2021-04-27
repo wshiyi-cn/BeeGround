@@ -1,0 +1,22 @@
+Simulation Log:
+Date and Time: 27-04-21 05:20:22
+
+Simulation:
+Time: 100
+Repeat count: 5
+
+Arena:
+Length: 40
+Width: 20
+
+Agents:
+Counts: 11
+Length: 0.8
+Width: 0.8
+Speed: 2
+Turning Speed: 50
+Sensor Range: 1
+
+Initialization Postion:
+X: from 0 to 10
+Y: from 0 to 10
