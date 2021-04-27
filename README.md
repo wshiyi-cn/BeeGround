@@ -10,6 +10,7 @@ Author: Shiyi Wang
 * [Installation](#Installation)
 * [First Simulation](#First-Simulation)
 * [Setting](#Setting-the-Simulation-Parameters)
+* [New Simulation Run](#Make-a-New-Simulation-Environment)
 
 
 # Overview
@@ -102,7 +103,7 @@ The default settings of robots (here using MONA[1] as an example) including size
 ### Simulation setting  
 Simulation duration and number of iterations are defined in this step.  
 
-# Make a New Environment
+# Make a New Simulation Environment
 ## Arena
 ![New Arena](https://i.imgur.com/p2gxUBl.png)  
 Size: Let's set the arena size with the width of 50 and the length of 50.
