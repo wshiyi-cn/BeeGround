@@ -1,1 +1,0 @@
-Here is the default folder to save the results.
