@@ -12,7 +12,8 @@ Author: Shiyi Wang
 * [Setting](#Setting-the-Simulation-Parameters)
 * [New Simulation Run](#Make-a-New-Simulation-Environment)
 * [Tools](#Tools)
-* [Researches](#Current-Researches)
+* [Current Researches](#Current-Researches)
+* [Related links](#Related-links)
 
 
 # Overview
@@ -125,5 +126,6 @@ Then we click "Play" to run the simulation. Now, you should understand the basic
 ![New Run](https://i.imgur.com/EaWYsil.png)  
 
 # Tools
-# Current researches
+# Current Researches
+# Related Links
 
