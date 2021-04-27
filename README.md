@@ -20,9 +20,20 @@ Author: Shiyi Wang
   * [Robots Settings](#Robots-Settings)
   * [Simulation Settings](#Simulation-Settings)
 * [New Simulation Run](#Make-a-New-Simulation-Environment)
+ * [Make the Arena](#Make-the-Arena)
+ * [Generate Bees](#Generate-Bees)
+ * [Simulation Config](#Simulation-Config)
 * [Tools](#Tools)
+ * [Generate the temperature array]
+ * [Make the Diagramn of the results]
 * [Current Researches](#Current-Researches)
+ * [Adaptive Behaviour]
+ * 
 * [Related links](#Related-links)
+ * [Websites]
+  * [SwaCil Lab](http://Swacil.com)
+ * [Papers]
+  * [Papers1]
 
 
 # Overview
@@ -116,7 +127,7 @@ The default settings of robots (here using MONA[1] as an example) including size
 Simulation duration and number of iterations are defined in this step.  
 
 # Make a New Simulation Environment
-## Arena
+## Make the Arena
 ![New Arena](https://i.imgur.com/p2gxUBl.png)  
 Size: Let's set the arena size with the width of 50 and the length of 50.
 Obstacle: Please open the obstacle file from Assets/01 Obstacles/Test_Obstacles_3Walls_50_50.txt. The Obstacle array is the as size matrix as the arena with the value of 1(Obstacle) or 0(no Obstacle).
@@ -126,7 +137,7 @@ Then click "Build" you will have a new arena.
 ![Generate Bees](https://i.imgur.com/VJRFDd8.png)  
 We keep the default parameters of bees and set the counts of 200 and place them in a range of (X from 0 to 10 and Y from 0 to 50).
 Then click "Generate" and you should see 200 bees are placed in the arena on the left side.
-## Simulation config
+## Simulation Config
 ![Simulation config](https://i.imgur.com/8ZH87lc.png)  
 Finaly, we set the duration of the simulation for 1000s and repeat 5 times.
 Don't forget to click the "Save settings".
