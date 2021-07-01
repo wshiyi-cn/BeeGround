@@ -56,7 +56,7 @@ Download a Geeground version from the folder 01 Version, here I will use "BeeGro
 Click this link to the Unity officical webist [www.unity.com](https://unity.com/ "Unity"). For Student and personal using the 100k. it is free to use.
 ### Install Unity Hub
 You need to download Unity Hub for first. 
-### Install Unity "2019.4.25f1(LTS)"
+### Install Unity "2020.3.13f1(LTS)"
 Then click "Installs" on the left side and click "ADD" button and choose "Unity 2019.4.25f1(LTS)"
 Then click "Next" and choose Microsoft Visual Studio Community 2019 (For editing code).
 
